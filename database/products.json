@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "productName": "Cammmm",
+    "price": 12000,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.iz32UjSFMF_cjC9HcSriGAHaE7&pid=Api&P=0&h=180",
+    "quantity": 16
+  },
+  {
+    "id": 2,
+    "productName": "Táo",
+    "price": 15000,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.kIbYW9dkZ3VZlSB3TQEWmwHaFm&pid=Api&P=0&h=180",
+    "quantity": 20
+  },
+  {
+    "id": 1724311832350,
+    "productName": "Quýt",
+    "price": 500000,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.fALtPa4yLgB393N-UTXlDwHaE8&pid=Api&P=0&h=180",
+    "quantity": 11
+  },
+  {
+    "id": 1724312346077,
+    "productName": "Chuối",
+    "price": 300000,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.ILeKvGJPRkbbbhR_DcRClgHaEx&pid=Api&P=0&h=180",
+    "quantity": 8
+  },
+  {
+    "id": 1724316564409,
+    "productName": "Hành",
+    "price": 60000,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.IqNN4jvdbDQQCimJuTmT9gHaFj&pid=Api&P=0&h=180",
+    "quantity": 4
+  }
+]
